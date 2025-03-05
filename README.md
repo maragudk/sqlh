@@ -1,5 +1,6 @@
 # sqlh
 
+[![Docs](https://pkg.go.dev/badge/maragu.dev/sqlh)](https://pkg.go.dev/maragu.dev/sqlh)
 [![CI](https://github.com/maragudk/sqlh/actions/workflows/ci.yml/badge.svg)](https://github.com/maragudk/sqlh/actions/workflows/ci.yml)
 
 SQL helpers.
